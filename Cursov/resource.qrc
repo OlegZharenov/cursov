@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resourec">
+        <file>img/GL.jpg</file>
+    </qresource>
+</RCC>
